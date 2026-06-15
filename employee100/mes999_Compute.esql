@@ -6,7 +6,7 @@ CREATE COMPUTE MODULE mes999_Compute
 	BEGIN
 		 CALL CopyMessageHeaders();
 		-- CALL CopyEntireMessage();
-		--comment
+		----comment
 		SET OutputRoot.XMLNSC.EMP.enamelength=LENGTH(InputRoot.XMLNSC.Student.student1.regName);
 		SET OutputRoot.XMLNSC.EMP.EMPleft=LEFT(InputRoot.XMLNSC.Student.student1.regName,5);
 		SET OutputRoot.XMLNSC.EMP.EMPright=RIGHT(InputRoot.XMLNSC.Student.student1.regName,3);
