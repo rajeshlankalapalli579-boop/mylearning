@@ -6,7 +6,7 @@
     <colorGraphic16 xmi:type="utility:GIFFileGraphic" resourceName="platform:/plugin/employee100/icons/full/obj16/mes999.gif"/>
     <colorGraphic32 xmi:type="utility:GIFFileGraphic" resourceName="platform:/plugin/employee100/icons/full/obj30/mes999.gif"/>
     <composition>
-      <nodes xmi:type="ComIbmFileInput.msgnode:FCMComposite_1" xmi:id="FCMComposite_1_1" location="126,191" inputDirectory="C:\Users\veera\Desktop\ACE\rajesh" filenamePattern="*xml" messageDomainProperty="XMLNSC" failedFileAction="moveToBackoutWithTimestamp">
+      <nodes xmi:type="ComIbmFileInput.msgnode:FCMComposite_1" xmi:id="FCMComposite_1_1" location="126,191" inputDirectory="C:\Users\veera\Desktop\ACE\rajesh" filenamePattern="*.xml" messageDomainProperty="XMLNSC" failedFileAction="moveToBackoutWithTimestamp">
         <translation xmi:type="utility:ConstantString" string="File Input"/>
       </nodes>
       <nodes xmi:type="ComIbmFileOutput.msgnode:FCMComposite_1" xmi:id="FCMComposite_1_2" location="860,184" outputDirectory="C:\Users\veera\Desktop\ACE\ravi" outputFilename="emp.xml">
