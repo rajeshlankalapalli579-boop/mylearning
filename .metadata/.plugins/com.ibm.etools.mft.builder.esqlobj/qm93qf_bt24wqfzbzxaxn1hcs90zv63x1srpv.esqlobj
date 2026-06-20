@@ -1,0 +1,76 @@
+/*EATE FUNCTION Main() RETURNS BOOLE*/
+	BEGIN
+		-- CALL CopyMessageHeaders();
+		-- CALL CopyEntireMessage();
+		SET OutputRoot.XMLNSC.EMP.enamelength=LENGTH(InputRoot.XMLNSC.Student.student1.regName);
+		SET OutputRoot.XMLNSC.EMP.EMPleft=LEFT(InputRoot.XMLNSC.Student.student1.regName,5);
+		SET OutputRoot.XMLNSC.EMP.EMPright=RIGHT(InputRoot.XMLNSC.Student.student1.regName,3);
+		SET OutputRoot.XMLNSC.EMP.EMPslcase=LCASE(InputRoot.XMLNSC.Student.student1.regName);
+		SET OutputRoot.XMLNSC.EMP.EMPUcase=UCASE(InputRoot.XMLNSC.Student.student1.regName);
+		SET OutputRoot.XMLNSC.EMP.EMPLTRIM=LTRIM(InputRoot.XMLNSC.Student.student1.regName);
+		SET OutputRoot.XMLNSC.EMP.EMPRTRIM=RTRIM(InputRoot.XMLNSC.Student.student1.regName);
+		SET OutputRoot.XMLNSC.EMP.EMPREPLACE=REPLACE(InputRoot.XMLNSC.Student.student1.regName,'j','k');
+		SET OutputRoot.XMLNSC.EMP.currenttime = CURRENT_TIMESTAMP;
+		SET OutputRoot.XMLNSC.EMP.GMTTimeStamp = CURRENT_GMTTIMESTAMP;
+		SET OutputRoot.XMLNSC.EMP.currentTimestampextraonehour = CURRENT_TIMESTAMP+INTERVAL '1' HOUR;
+		SET OutputRoot.XMLNSC.EMP.currentDayextraoneday = CURRENT_DATE+INTERVAL '1' DAY;
+		SET OutputRoot.XMLNSC.EMP.substringdata = SUBSTRING(InputRoot.XMLNSC.Student.student1.regName FROM 5 FOR 5);
+		SET OutputRoot.XMLNSC.EMP.scast= (InputRoot.XMLNSC.Student.student1.regName)||CAST(CURRENT_TIMESTAMP AS CHARACTER FORMAT 'yyyyMMdd-HHmmss');
+        SET OutputRoot.XMLNSC.EMP.SEXTRACT=EXTRACT(YEAR FROM CURRENT_DATE);
+        SET OutputRoot.XMLNSC.EMP.SEXTRACTHOUR=EXTRACT(HOUR FROM CURRENT_TIME);
+        SET OutputRoot.XMLNSC.EMP.SEXTRACTDAYOFWEEK=EXTRACT(DAYOFWEEK FROM CURRENT_DATE);
+        DECLARE SOURCE DECIMAL 31415.92653589;
+        DECLARE TARGET CHARACTER '';
+        DECLARE PATTERN CHARACTER'#,##0.00';
+        SET TARGET=CAST(SOURCE AS CHARACTER FORMAT PATTERN);
+        SET OutputRoot.XMLNSC.EMP.TARGET=TARGET;
+        --TARGET IS NOW'31.415.93'
+        DECLARE NOW CHARACTER;
+        SET NOW=CAST(CURRENT_TIMESTAMP AS CHARACTER FORMAT'YYYYMMDD-HHMMSS');
+        --TARGET IS NOW '20041007-111656;(in this instance atleast)
+       DECLARE SOURCE1 CHARACTER '01-02-2003';
+               DECLARE TARGET1 DATE;
+      DECLARE PATTERN1 CHARACTER 'dd-MM-yyyy';
+             SET OutputRoot.XMLNSC.EMP.EMPSOURCE1=CAST(SOURCE1 AS DATE FORMAT PATTERN1);
+        --TARGET NOW CONTAINS YEAR=2003,MONTH 02,DAY 01
+        DECLARE PATTERN2 CHARACTER'yyyy/MM/dd';
+        SET OutputRoot.XMLNSC.EMP.EMPCURRENTDATE=CAST(CURRENT_DATE AS CHARACTER FORMAT PATTERN2);
+        DECLARE PATTERN3 CHARACTER'yyyy/MM/ddhh-mm-ss-SS';
+        set OutputRoot.XMLNSC.EMP.EMPCURRENTTIMEDATE=CAST(CURRENT_TIMESTAMP AS CHARACTER FORMAT PATTERN3);
+		IF InputRoot.XMLNSC.Student.student1.marks>40 THEN
+			SET OutputRoot.XMLNSC.EMP.employment='pass';
+		ELSE
+			SET OutputRoot.XMLNSC.EMP.employment='normal pass';
+		END IF;
+		
+		SET OutputRoot.XMLNSC.EMP.empfullname=UCASE(InputRoot.XMLNSC.Student.student1.regName||' lankalapalli');
+		SET OutputRoot.XMLNSC.EMP.empfullnamE1=UCASE(InputRoot.XMLNSC.Student.student2.regName||' lankalapalli');
+		SET OutputRoot.XMLNSC.EMP.DATA=ROW('GRANARY' AS BREAD,'RIESLING' AS WINE,'STILTON' AS CHEESE);
+		SET OutputRoot.XMLNSC.EMP.DATA1=ROW(InputRoot.XMLNSC.Student.student1.regName AS NAME,InputRoot.XMLNSC.Student.student1.regno AS NO,InputRoot.XMLNSC.Student.student1.marks AS marks);
+		SET OutputRoot.XMLNSC.EMP.DATA2=ROW(InputRoot.XMLNSC.Student.student2.regName AS NAME,InputRoot.XMLNSC.Student.student2.regno AS NO,InputRoot.XMLNSC.Student.student2.marks AS marks);
+		SET OutputRoot.XMLNSC.EMP.DATA3=ROW('VISAKHAPATNAM' AS CITY,'ANDHRAPRADESH' AS STATE,'KOTHAVALASA' AS VILLAGE);
+		SET OutputRoot.XMLNSC.EMP.detail.DATA4[]=LIST{InputRoot.XMLNSC.Student.student1.regno,'RED'};
+		SET OutputRoot.XMLNSC.EMP.company.companyname[]=LIST{InputRoot.XMLNSC.Student.student1.regName,'MICROSOFT',InputRoot.XMLNSC.Student.student1.regName,'IBM',InputRoot.XMLNSC.Student.student1.regName,'GOOGLE'};
+		SET OutputRoot.XMLNSC.EMP.test.EMPLOYEE1[]=LIST{ROW('RAJESH' AS regName,80 AS marks,10 AS regno),ROW('RAVI' AS  regName,60 AS marks,20 AS regno)};
+		SET OutputRoot.XMLNSC.EMP.EMPDETAILS.EMPLOYEEFULLDETAILS[]=LIST{ROW(InputRoot.XMLNSC.Student.student1.AS regName,InputRoot.XMLNSC.Student.student1 AS marks,InputRoot.XMLNSC.Student.student1. AS regno),ROW(InputRoot.XMLNSC.Student.student2. AS  regName,InputRoot.XMLNSC.Student.student2. AS marks,InputRoot.XMLNSC.Student.student2. AS regno)};
+		
+		
+		
+		
+		
+		RETURN TRUE;
+	END;
+
+	CREATE PROCEDURE CopyMessageHeaders() BEGIN
+		DECLARE I INTEGER 1;
+		DECLARE J INTEGER;
+		SET J = CARDINALITY(InputRoot.*[]);
+		WHILE I < J DO
+			SET OutputRoot.*[I] = InputRoot.*[I];
+			SET I = I + 1;
+		END WHILE;
+	END;
+
+	CREATE PROCEDURE CopyEntireMessage() BEGIN
+		SET OutputRoot = InputRoot;
+	END;

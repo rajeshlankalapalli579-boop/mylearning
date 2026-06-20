@@ -1,0 +1,465 @@
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781517380624
+BIP9332I<<Application 'employee100' has been changed successfully. <<1781517380624
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781517380624
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781517549275
+BIP9332I<<Application 'employee100' has been changed successfully. <<1781517549275
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781517549275
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781517647551
+BIP9332I<<Application 'employee100' has been changed successfully. <<1781517647551
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781517647551
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781517695270
+BIP9332I<<Application 'employee100' has been changed successfully. <<1781517695270
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781517695270
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781517733277
+BIP9332I<<Application 'employee100' has been changed successfully. <<1781517733277
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781517733277
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781517768911
+BIP9332I<<Application 'employee100' has been changed successfully. <<1781517768911
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781517768911
+barfile1234.bar>>learning1>>student>>ERROR>>1781518143418
+BIP1921S<<The integration node or integration server cannot be reached. Check that the integration node or integration server is running. Check that the TCP/IP address 'localhost' matches the address of the machine where the integration node or integration server is running,and that port '4415' matches the Administration REST API port that is configured for the integration node or integration server. See the following messages for details of the error.<<1781518143418
+BIP8032E<<Unable to connect to the integration node or integration server. <<1781518143418
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781518482910
+BIP9332I<<Application 'employee100' has been created successfully. <<1781518482910
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781518482910
+BARFILE 2345.bar>>learning1>>student>>SUCCESS>>1781520960501
+BIP9332I<<Application 'employee200' has been created successfully. <<1781520960501
+BIP9326I<<The source ''BARFILE%202345.bar' has been successfully deployed. <<1781520960501
+BARFILE 2345.bar>>learning1>>student>>SUCCESS>>1781521167788
+BIP9332I<<Application 'employee200' has been changed successfully. <<1781521167788
+BIP9326I<<The source ''BARFILE%202345.bar' has been successfully deployed. <<1781521167788
+BARFILE 2345.bar>>learning1>>student>>SUCCESS>>1781521985583
+BIP9332I<<Application 'employee200' has been changed successfully. <<1781521985583
+BIP9326I<<The source ''BARFILE%202345.bar' has been successfully deployed. <<1781521985583
+BARFILE 2345.bar>>learning1>>student>>SUCCESS>>1781522038795
+BIP9332I<<Application 'employee200' has been changed successfully. <<1781522038795
+BIP9326I<<The source ''BARFILE%202345.bar' has been successfully deployed. <<1781522038795
+BARFILE 2345.bar>>learning1>>student>>SUCCESS>>1781522129856
+BIP9332I<<Application 'employee200' has been changed successfully. <<1781522129856
+BIP9326I<<The source ''BARFILE%202345.bar' has been successfully deployed. <<1781522129856
+BARFILE 2345.bar>>learning1>>student>>SUCCESS>>1781522205700
+BIP9332I<<Application 'employee200' has been changed successfully. <<1781522205700
+BIP9326I<<The source ''BARFILE%202345.bar' has been successfully deployed. <<1781522205700
+BARFILE 2345.bar>>learning1>>student>>SUCCESS>>1781523030685
+BIP9332I<<Application 'employee200' has been changed successfully. <<1781523030685
+BIP9326I<<The source ''BARFILE%202345.bar' has been successfully deployed. <<1781523030685
+BARFILE 2345.bar>>learning1>>student>>SUCCESS>>1781523400834
+BIP9332I<<Application 'employee200' has been changed successfully. <<1781523400834
+BIP9326I<<The source ''BARFILE%202345.bar' has been successfully deployed. <<1781523400834
+BARFILE 2345.bar>>learning1>>student>>SUCCESS>>1781523430339
+BIP9332I<<Application 'employee200' has been changed successfully. <<1781523430339
+BIP9326I<<The source ''BARFILE%202345.bar' has been successfully deployed. <<1781523430339
+BARFILE 2345.bar>>learning1>>student>>ERROR>>1781523804854
+BIP1921S<<The integration node or integration server cannot be reached. Check that the integration node or integration server is running. Check that the TCP/IP address 'localhost' matches the address of the machine where the integration node or integration server is running,and that port '4415' matches the Administration REST API port that is configured for the integration node or integration server. See the following messages for details of the error.<<1781523804854
+BIP8032E<<Unable to connect to the integration node or integration server. <<1781523804854
+BARFILE 2345.bar>>learning1>>student>>ERROR>>1781523856667
+BARFILE 2345.bar>>learning1>>student>>ERROR>>1781523887654
+BARFILE 2345.bar>>learning1>>student>>SUCCESS>>1781524167580
+BIP9332I<<Application 'employee200' has been changed successfully. <<1781524167580
+BIP9326I<<The source ''BARFILE%202345.bar' has been successfully deployed. <<1781524167580
+BARFILE 2345.bar>>learning1>>student>>SUCCESS>>1781526759305
+BIP9332I<<Application 'employee200' has been changed successfully. <<1781526759305
+BIP9326I<<The source ''BARFILE%202345.bar' has been successfully deployed. <<1781526759305
+BARFILE 2345.bar>>learning1>>student>>SUCCESS>>1781527000898
+BIP9332I<<Application 'employee200' has been changed successfully. <<1781527000898
+BIP9326I<<The source ''BARFILE%202345.bar' has been successfully deployed. <<1781527000898
+BARFILE 2345.bar>>learning1>>student>>SUCCESS>>1781527125386
+BIP9332I<<Application 'employee200' has been changed successfully. <<1781527125386
+BIP9326I<<The source ''BARFILE%202345.bar' has been successfully deployed. <<1781527125386
+BARFILE 2345.bar>>learning1>>student>>SUCCESS>>1781582813799
+BIP9332I<<Application 'employee200' has been changed successfully. <<1781582813799
+BIP9326I<<The source ''BARFILE%202345.bar' has been successfully deployed. <<1781582813799
+BARFILE 2345.bar>>learning1>>student>>SUCCESS>>1781584417761
+BIP9332I<<Application 'employee200' has been changed successfully. <<1781584417761
+BIP9326I<<The source ''BARFILE%202345.bar' has been successfully deployed. <<1781584417761
+BARFILE 2345.bar>>learning1>>student>>SUCCESS>>1781584950606
+BIP9332I<<Application 'employee200' has been changed successfully. <<1781584950606
+BIP9326I<<The source ''BARFILE%202345.bar' has been successfully deployed. <<1781584950606
+BARFILE 2345.bar>>learning1>>student>>SUCCESS>>1781586115831
+BIP9332I<<Application 'employee200' has been changed successfully. <<1781586115831
+BIP9326I<<The source ''BARFILE%202345.bar' has been successfully deployed. <<1781586115831
+BARFILE 2345.bar>>learning1>>student>>SUCCESS>>1781586264232
+BIP9332I<<Application 'employee200' has been created successfully. <<1781586264232
+BIP9326I<<The source ''BARFILE%202345.bar' has been successfully deployed. <<1781586264232
+BARFILE 2345.bar>>learning1>>student>>SUCCESS>>1781586296864
+BIP9332I<<Application 'employee200' has been changed successfully. <<1781586296864
+BIP9326I<<The source ''BARFILE%202345.bar' has been successfully deployed. <<1781586296864
+BARFILE 2345.bar>>learning1>>student>>SUCCESS>>1781586504012
+BIP9332I<<Application 'employee200' has been changed successfully. <<1781586504012
+BIP9326I<<The source ''BARFILE%202345.bar' has been successfully deployed. <<1781586504012
+BARFILE 2345.bar>>learning1>>student>>SUCCESS>>1781586790455
+BIP9332I<<Application 'employee200' has been changed successfully. <<1781586790455
+BIP9326I<<The source ''BARFILE%202345.bar' has been successfully deployed. <<1781586790455
+BARFILE 2345.bar>>learning1>>student>>SUCCESS>>1781586923896
+BIP9332I<<Application 'employee200' has been changed successfully. <<1781586923896
+BIP9326I<<The source ''BARFILE%202345.bar' has been successfully deployed. <<1781586923896
+BARFILE 2345.bar>>learning1>>student>>ERROR>>1781588370989
+BARFILE 2345.bar>>learning1>>student>>ERROR>>1781588548231
+BARFILE 2345.bar>>learning1>>student>>SUCCESS>>1781589394873
+BIP9332I<<Application 'employee200' has been created successfully. <<1781589394873
+BIP9326I<<The source ''BARFILE%202345.bar' has been successfully deployed. <<1781589394873
+BARFILE 2345.bar>>learning1>>student>>SUCCESS>>1781589554392
+BIP9332I<<Application 'employee200' has been changed successfully. <<1781589554392
+BIP9326I<<The source ''BARFILE%202345.bar' has been successfully deployed. <<1781589554392
+BARFILE 2345.bar>>learning1>>student>>SUCCESS>>1781589694344
+BIP9332I<<Application 'employee200' has been changed successfully. <<1781589694344
+BIP9326I<<The source ''BARFILE%202345.bar' has been successfully deployed. <<1781589694344
+BARFILE 2345.bar>>learning1>>student>>SUCCESS>>1781590983983
+BIP9332I<<Application 'employee200' has been changed successfully. <<1781590983983
+BIP9326I<<The source ''BARFILE%202345.bar' has been successfully deployed. <<1781590983983
+BARFILE 2345.bar>>learning1>>student>>SUCCESS>>1781595551397
+BIP9332I<<Application 'employee200' has been created successfully. <<1781595551397
+BIP9326I<<The source ''BARFILE%202345.bar' has been successfully deployed. <<1781595551397
+BARFILE 2345.bar>>learning1>>student>>SUCCESS>>1781595633021
+BIP9332I<<Application 'employee200' has been changed successfully. <<1781595633021
+BIP9326I<<The source ''BARFILE%202345.bar' has been successfully deployed. <<1781595633021
+BARFILE 2345.bar>>learning1>>student>>SUCCESS>>1781596501094
+BIP9332I<<Application 'employee200' has been changed successfully. <<1781596501094
+BIP9326I<<The source ''BARFILE%202345.bar' has been successfully deployed. <<1781596501094
+BARFILE 2345.bar>>learning1>>student>>SUCCESS>>1781597510414
+BIP9332I<<Application 'employee200' has been changed successfully. <<1781597510414
+BIP9326I<<The source ''BARFILE%202345.bar' has been successfully deployed. <<1781597510414
+BARFILE 2345.bar>>learning1>>student>>SUCCESS>>1781597592014
+BIP9332I<<Application 'employee200' has been changed successfully. <<1781597592014
+BIP9326I<<The source ''BARFILE%202345.bar' has been successfully deployed. <<1781597592014
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781601384124
+BIP9332I<<Application 'employee300' has been created successfully. <<1781601384124
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781601384124
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781601456999
+BIP9332I<<Application 'employee300' has been changed successfully. <<1781601456999
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781601456999
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781601584757
+BIP9332I<<Application 'employee300' has been changed successfully. <<1781601584757
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781601584757
+barfile1234.bar>>learning1>>student>>ERROR>>1781601652871
+BIP1921S<<The integration node or integration server cannot be reached. Check that the integration node or integration server is running. Check that the TCP/IP address 'localhost' matches the address of the machine where the integration node or integration server is running,and that port '4415' matches the Administration REST API port that is configured for the integration node or integration server. See the following messages for details of the error.<<1781601652871
+BIP8032E<<Unable to connect to the integration node or integration server. <<1781601652871
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781602024857
+BIP9332I<<Application 'employee300' has been changed successfully. <<1781602024857
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781602024857
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781602145782
+BIP9332I<<Application 'employee300' has been changed successfully. <<1781602145782
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781602145782
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781602288832
+BIP9332I<<Application 'employee300' has been changed successfully. <<1781602288832
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781602288832
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781602377234
+BIP9332I<<Application 'employee300' has been changed successfully. <<1781602377234
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781602377234
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781602440019
+BIP9332I<<Application 'employee300' has been changed successfully. <<1781602440019
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781602440019
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781602545223
+BIP9332I<<Application 'employee300' has been changed successfully. <<1781602545223
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781602545223
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781602655753
+BIP9332I<<Application 'employee300' has been changed successfully. <<1781602655753
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781602655753
+barfile1234.bar>>learning1>>student>>ERROR>>1781603098357
+BIP1921S<<The integration node or integration server cannot be reached. Check that the integration node or integration server is running. Check that the TCP/IP address 'localhost' matches the address of the machine where the integration node or integration server is running,and that port '4415' matches the Administration REST API port that is configured for the integration node or integration server. See the following messages for details of the error.<<1781603098357
+BIP8032E<<Unable to connect to the integration node or integration server. <<1781603098357
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781603304894
+BIP9332I<<Application 'employee300' has been changed successfully. <<1781603304894
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781603304894
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781603376829
+BIP9332I<<Application 'employee300' has been changed successfully. <<1781603376829
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781603376829
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781603521154
+BIP9332I<<Application 'employee300' has been changed successfully. <<1781603521154
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781603521154
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781603712703
+BIP9332I<<Application 'employee300' has been created successfully. <<1781603712703
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781603712703
+barfile1234.bar>>learning1>>student>>ERROR>>1781603815911
+BIP1921S<<The integration node or integration server cannot be reached. Check that the integration node or integration server is running. Check that the TCP/IP address 'localhost' matches the address of the machine where the integration node or integration server is running,and that port '4415' matches the Administration REST API port that is configured for the integration node or integration server. See the following messages for details of the error.<<1781603815911
+BIP8032E<<Unable to connect to the integration node or integration server. <<1781603815911
+barfile1234.bar>>learning1>>student>>ERROR>>1781603839170
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781604040325
+BIP9332I<<Application 'employee300' has been changed successfully. <<1781604040325
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781604040325
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781604116161
+BIP9332I<<Application 'employee300' has been changed successfully. <<1781604116161
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781604116161
+barfile1234.bar>>learning1>>student>>WARNING>>1781609648396
+BIP9318E<<Request to 'PreSetupValidate' resource 'employee300', 'employee300' of type 'Application' failed. <<1781609648396
+BIP2432E<<(.flow2222_Compute.Main, 7.67) : The correlation name 'AUDIT.STUDENT' is not valid. Those in scope are: Database, Environment, InputLocalEnvironment, OutputLocalEnvironment, InputRoot, InputBody, InputProperties, OutputRoot, InputExceptionList, OutputExceptionList, InputDestinationList, OutputDestinationList. <<1781609648396
+BIP9333W<<Application 'employee300' has been changed but contains errors which has prevented some resources from starting. <<1781609648396
+BIP1096E<<The source 'barfile1234.bar' has been deployed but there were one or more failures which may mean the deployed resources will be unable to execute. <<1781609648396
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781609710927
+BIP9332I<<Application 'employee300' has been changed successfully. <<1781609710927
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781609710927
+barfile1234.bar>>learning1>>student>>ERROR>>1781609782943
+BIP1921S<<The integration node or integration server cannot be reached. Check that the integration node or integration server is running. Check that the TCP/IP address 'localhost' matches the address of the machine where the integration node or integration server is running,and that port '4415' matches the Administration REST API port that is configured for the integration node or integration server. See the following messages for details of the error.<<1781609782943
+BIP8032E<<Unable to connect to the integration node or integration server. <<1781609782943
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781610072856
+BIP9332I<<Application 'employee300' has been changed successfully. <<1781610072856
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781610072856
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781610176984
+BIP9332I<<Application 'employee300' has been changed successfully. <<1781610176984
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781610176984
+barfile1234.bar>>learning1>>student>>ERROR>>1781610525698
+BIP1921S<<The integration node or integration server cannot be reached. Check that the integration node or integration server is running. Check that the TCP/IP address 'localhost' matches the address of the machine where the integration node or integration server is running,and that port '4415' matches the Administration REST API port that is configured for the integration node or integration server. See the following messages for details of the error.<<1781610525698
+BIP8032E<<Unable to connect to the integration node or integration server. <<1781610525698
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781610839126
+BIP9332I<<Application 'employee300' has been changed successfully. <<1781610839126
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781610839126
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781610971268
+BIP9332I<<Application 'employee300' has been changed successfully. <<1781610971268
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781610971268
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781667930159
+BIP9332I<<Application 'employee300' has been changed successfully. <<1781667930159
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781667930159
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781668193285
+BIP9332I<<Application 'employee300' has been changed successfully. <<1781668193285
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781668193285
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781669713359
+BIP9332I<<Application 'employee300' has been changed successfully. <<1781669713359
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781669713359
+barfile1234.bar>>learning1>>student>>ERROR>>1781670575880
+BIP1921S<<The integration node or integration server cannot be reached. Check that the integration node or integration server is running. Check that the TCP/IP address 'localhost' matches the address of the machine where the integration node or integration server is running,and that port '4415' matches the Administration REST API port that is configured for the integration node or integration server. See the following messages for details of the error.<<1781670575880
+BIP8032E<<Unable to connect to the integration node or integration server. <<1781670575880
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781670992617
+BIP9332I<<Application 'employee300' has been changed successfully. <<1781670992617
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781670992617
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781681538894
+BIP9332I<<Application 'employee300' has been changed successfully. <<1781681538894
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781681538894
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781681670317
+BIP9332I<<Application 'employee300' has been changed successfully. <<1781681670317
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781681670317
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781682319372
+BIP9332I<<Application 'employee300' has been changed successfully. <<1781682319372
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781682319372
+barfile1234.bar>>learning1>>student>>ERROR>>1781683730401
+BIP1921S<<The integration node or integration server cannot be reached. Check that the integration node or integration server is running. Check that the TCP/IP address 'localhost' matches the address of the machine where the integration node or integration server is running,and that port '4415' matches the Administration REST API port that is configured for the integration node or integration server. See the following messages for details of the error.<<1781683730401
+BIP8032E<<Unable to connect to the integration node or integration server. <<1781683730401
+barfile1234.bar>>learning1>>student>>WARNING>>1781683913432
+BIP9318E<<Request to 'PreSetupValidate' resource 'employee300', 'employee300' of type 'Application' failed. <<1781683913432
+BIP2432E<<(.flow2222_Compute.Main, 32.8) : The correlation name 'I' is not valid. Those in scope are: Environment, InputLocalEnvironment, OutputLocalEnvironment, InputRoot, InputBody, InputProperties, OutputRoot, InputExceptionList, OutputExceptionList, InputDestinationList, OutputDestinationList, i. <<1781683913432
+BIP9333W<<Application 'employee300' has been changed but contains errors which has prevented some resources from starting. <<1781683913432
+BIP1096E<<The source 'barfile1234.bar' has been deployed but there were one or more failures which may mean the deployed resources will be unable to execute. <<1781683913432
+barfile1234.bar>>learning1>>student>>WARNING>>1781683989496
+BIP9318E<<Request to 'PreSetupValidate' resource 'employee300', 'employee300' of type 'Application' failed. <<1781683989496
+BIP2432E<<(.flow2222_Compute.Main, 32.8) : The correlation name 'I' is not valid. Those in scope are: Environment, InputLocalEnvironment, OutputLocalEnvironment, InputRoot, InputBody, InputProperties, OutputRoot, InputExceptionList, OutputExceptionList, InputDestinationList, OutputDestinationList, i. <<1781683989496
+BIP9333W<<Application 'employee300' has been changed but contains errors which has prevented some resources from starting. <<1781683989496
+BIP1096E<<The source 'barfile1234.bar' has been deployed but there were one or more failures which may mean the deployed resources will be unable to execute. <<1781683989496
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781684094426
+BIP9332I<<Application 'employee300' has been changed successfully. <<1781684094426
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781684094426
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781684645097
+BIP9332I<<Application 'employee300' has been changed successfully. <<1781684645097
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781684645097
+barfile1234.bar>>learning1>>student>>ERROR>>1781700278756
+BIP1921S<<The integration node or integration server cannot be reached. Check that the integration node or integration server is running. Check that the TCP/IP address 'localhost' matches the address of the machine where the integration node or integration server is running,and that port '4415' matches the Administration REST API port that is configured for the integration node or integration server. See the following messages for details of the error.<<1781700278756
+BIP8032E<<Unable to connect to the integration node or integration server. <<1781700278756
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781700464501
+BIP9332I<<Application 'employee300' has been changed successfully. <<1781700464501
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781700464501
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781701586823
+BIP9332I<<Application 'employee300' has been changed successfully. <<1781701586823
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781701586823
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781701970179
+BIP9332I<<Application 'employee300' has been changed successfully. <<1781701970179
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781701970179
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781704645561
+BIP9332I<<Application 'employee300' has been changed successfully. <<1781704645561
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781704645561
+barfile1234.bar>>learning1>>student>>ERROR>>1781704887320
+BIP1921S<<The integration node or integration server cannot be reached. Check that the integration node or integration server is running. Check that the TCP/IP address 'localhost' matches the address of the machine where the integration node or integration server is running,and that port '4415' matches the Administration REST API port that is configured for the integration node or integration server. See the following messages for details of the error.<<1781704887320
+BIP8032E<<Unable to connect to the integration node or integration server. <<1781704887320
+barfile1234.bar>>learning1>>student>>ERROR>>1781704964858
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781705128554
+BIP9332I<<Application 'employee300' has been changed successfully. <<1781705128554
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781705128554
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781706071405
+BIP9332I<<Application 'employee300' has been changed successfully. <<1781706071405
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781706071405
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781706559743
+BIP9332I<<Application 'employee300' has been changed successfully. <<1781706559743
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781706559743
+barfile1234.bar>>learning1>>student>>SUCCESS>>1781706604823
+BIP9332I<<Application 'employee300' has been changed successfully. <<1781706604823
+BIP9326I<<The source 'barfile1234.bar' has been successfully deployed. <<1781706604823
+BARFILE1234.bar>>learning1>>student>>SUCCESS>>1781772357505
+BIP9332I<<Application 'application500' has been created successfully. <<1781772357505
+BIP9326I<<The source 'BARFILE1234.bar' has been successfully deployed. <<1781772357505
+BARFILE1234.bar>>learning1>>student>>SUCCESS>>1781772606701
+BIP9332I<<Application 'application500' has been changed successfully. <<1781772606701
+BIP9326I<<The source 'BARFILE1234.bar' has been successfully deployed. <<1781772606701
+BARFILE1234.bar>>node>>server>>SUCCESS>>1781773887542
+BIP9332I<<Application 'application500' has been created successfully. <<1781773887542
+BIP9326I<<The source 'BARFILE1234.bar' has been successfully deployed. <<1781773887542
+BARFILE1234.bar>>node>>server>>SUCCESS>>1781774596345
+BIP9332I<<Application 'application500' has been changed successfully. <<1781774596345
+BIP9326I<<The source 'BARFILE1234.bar' has been successfully deployed. <<1781774596345
+BARFILE1234.bar>>node>>server>>SUCCESS>>1781775014248
+BIP9332I<<Application 'application500' has been changed successfully. <<1781775014248
+BIP9326I<<The source 'BARFILE1234.bar' has been successfully deployed. <<1781775014248
+BARFILE1234.bar>>node>>server>>SUCCESS>>1781775066817
+BIP9332I<<Application 'application500' has been changed successfully. <<1781775066817
+BIP9326I<<The source 'BARFILE1234.bar' has been successfully deployed. <<1781775066817
+BARFILE1234.bar>>node>>server>>ERROR>>1781775921609
+BARFILE1234.bar>>node>>server>>ERROR>>1781778739133
+BARFILE1234.bar>>node>>server>>SUCCESS>>1781779066216
+BIP9332I<<Application 'application500' has been changed successfully. <<1781779066216
+BIP9326I<<The source 'BARFILE1234.bar' has been successfully deployed. <<1781779066216
+BARFILE1234.bar>>node>>server>>SUCCESS>>1781779371452
+BIP9332I<<Application 'application500' has been changed successfully. <<1781779371452
+BIP9326I<<The source 'BARFILE1234.bar' has been successfully deployed. <<1781779371452
+BARFILE1234.bar>>node>>server>>SUCCESS>>1781784359569
+BIP9332I<<Application 'application500' has been changed successfully. <<1781784359569
+BIP9326I<<The source 'BARFILE1234.bar' has been successfully deployed. <<1781784359569
+BARFILE1234.bar>>node>>server>>SUCCESS>>1781784676801
+BIP9332I<<Application 'application500' has been changed successfully. <<1781784676801
+BIP9326I<<The source 'BARFILE1234.bar' has been successfully deployed. <<1781784676801
+BARFILE1234.bar>>node>>server>>SUCCESS>>1781785882609
+BIP9332I<<Application 'application500' has been changed successfully. <<1781785882609
+BIP9326I<<The source 'BARFILE1234.bar' has been successfully deployed. <<1781785882609
+BARFILE1234.bar>>node>>server>>SUCCESS>>1781786077256
+BIP9332I<<Application 'application500' has been changed successfully. <<1781786077256
+BIP9326I<<The source 'BARFILE1234.bar' has been successfully deployed. <<1781786077256
+BARFILE1234.bar>>node>>server>>ERROR>>1781786116290
+BIP1921S<<The integration node or integration server cannot be reached. Check that the integration node or integration server is running. Check that the TCP/IP address 'localhost' matches the address of the machine where the integration node or integration server is running,and that port '4416' matches the Administration REST API port that is configured for the integration node or integration server. See the following messages for details of the error.<<1781786116290
+BIP8032E<<Unable to connect to the integration node or integration server. <<1781786116290
+BARFILE1234.bar>>node>>server>>ERROR>>1781786156264
+BARFILE1234.bar>>node>>server>>ERROR>>1781786174378
+BARFILE1234.bar>>node>>server>>SUCCESS>>1781786357751
+BIP9332I<<Application 'application500' has been changed successfully. <<1781786357751
+BIP9326I<<The source 'BARFILE1234.bar' has been successfully deployed. <<1781786357751
+BARFILE3333.bar>>node>>server>>SUCCESS>>1781843227637
+BIP9332I<<Application 'APPLICATION 600' has been created successfully. <<1781843227637
+BIP9326I<<The source 'BARFILE3333.bar' has been successfully deployed. <<1781843227637
+BARFILE3333.bar>>node>>server>>SUCCESS>>1781843363095
+BIP9332I<<Application 'APPLICATION 600' has been changed successfully. <<1781843363095
+BIP9326I<<The source 'BARFILE3333.bar' has been successfully deployed. <<1781843363095
+BARFILE3333.bar>>node>>server>>SUCCESS>>1781843420890
+BIP9332I<<Application 'APPLICATION 600' has been changed successfully. <<1781843420890
+BIP9326I<<The source 'BARFILE3333.bar' has been successfully deployed. <<1781843420890
+BARFILE3333.bar>>node>>server>>SUCCESS>>1781843478812
+BIP9332I<<Application 'APPLICATION 600' has been changed successfully. <<1781843478812
+BIP9326I<<The source 'BARFILE3333.bar' has been successfully deployed. <<1781843478812
+BARFILE3333.bar>>node>>server>>SUCCESS>>1781843732144
+BIP9332I<<Application 'APPLICATION 600' has been changed successfully. <<1781843732144
+BIP9326I<<The source 'BARFILE3333.bar' has been successfully deployed. <<1781843732144
+BARFILE1.bar>>node>>server>>SUCCESS>>1781847624542
+BIP9332I<<Application 'application800' has been created successfully. <<1781847624542
+BIP9326I<<The source 'BARFILE1.bar' has been successfully deployed. <<1781847624542
+BARFILE1.bar>>node>>server>>SUCCESS>>1781847821231
+BIP9332I<<Application 'application800' has been changed successfully. <<1781847821231
+BIP9326I<<The source 'BARFILE1.bar' has been successfully deployed. <<1781847821231
+BARFILE1.bar>>node>>server>>SUCCESS>>1781847975258
+BIP9332I<<Application 'application800' has been changed successfully. <<1781847975258
+BIP9326I<<The source 'BARFILE1.bar' has been successfully deployed. <<1781847975258
+BARFILE1.bar>>node>>server>>SUCCESS>>1781848110324
+BIP9332I<<Application 'application800' has been changed successfully. <<1781848110324
+BIP9326I<<The source 'BARFILE1.bar' has been successfully deployed. <<1781848110324
+BARFILE1.bar>>node>>server>>SUCCESS>>1781848316883
+BIP9332I<<Application 'application800' has been changed successfully. <<1781848316883
+BIP9326I<<The source 'BARFILE1.bar' has been successfully deployed. <<1781848316883
+BARFILE1.bar>>node>>server>>SUCCESS>>1781848454915
+BIP9332I<<Application 'application800' has been changed successfully. <<1781848454915
+BIP9326I<<The source 'BARFILE1.bar' has been successfully deployed. <<1781848454915
+BARFILE1.bar>>node>>server>>SUCCESS>>1781848847879
+BIP9332I<<Application 'application800' has been changed successfully. <<1781848847879
+BIP9326I<<The source 'BARFILE1.bar' has been successfully deployed. <<1781848847879
+BARFILE1.bar>>node>>server>>SUCCESS>>1781849064631
+BIP9332I<<Application 'application800' has been changed successfully. <<1781849064631
+BIP9326I<<The source 'BARFILE1.bar' has been successfully deployed. <<1781849064631
+BARFILE1.bar>>node>>server>>SUCCESS>>1781849092865
+BIP9332I<<Application 'application800' has been changed successfully. <<1781849092865
+BIP9326I<<The source 'BARFILE1.bar' has been successfully deployed. <<1781849092865
+BARFILE1.bar>>node>>server>>SUCCESS>>1781849383085
+BIP9332I<<Application 'application800' has been changed successfully. <<1781849383085
+BIP9326I<<The source 'BARFILE1.bar' has been successfully deployed. <<1781849383085
+BARFILE1.bar>>node>>server>>SUCCESS>>1781849404718
+BIP9332I<<Application 'application800' has been changed successfully. <<1781849404718
+BIP9326I<<The source 'BARFILE1.bar' has been successfully deployed. <<1781849404718
+BARFILE1.bar>>node>>server>>SUCCESS>>1781849697413
+BIP9332I<<Application 'application800' has been changed successfully. <<1781849697413
+BIP9326I<<The source 'BARFILE1.bar' has been successfully deployed. <<1781849697413
+BARFILE1.bar>>node>>server>>SUCCESS>>1781850121987
+BIP9332I<<Application 'application800' has been changed successfully. <<1781850121987
+BIP9326I<<The source 'BARFILE1.bar' has been successfully deployed. <<1781850121987
+BARFILE1.bar>>node>>server>>SUCCESS>>1781851792506
+BIP9332I<<Application 'application800' has been changed successfully. <<1781851792506
+BIP9326I<<The source 'BARFILE1.bar' has been successfully deployed. <<1781851792506
+BARFILE1.bar>>node>>server>>SUCCESS>>1781852302027
+BIP9332I<<Application 'application800' has been changed successfully. <<1781852302027
+BIP9326I<<The source 'BARFILE1.bar' has been successfully deployed. <<1781852302027
+BARFILE1.bar>>node>>server>>SUCCESS>>1781852589517
+BIP9332I<<Application 'application800' has been changed successfully. <<1781852589517
+BIP9326I<<The source 'BARFILE1.bar' has been successfully deployed. <<1781852589517
+BARFILE1.bar>>node>>server>>SUCCESS>>1781852847305
+BIP9332I<<Application 'application800' has been changed successfully. <<1781852847305
+BIP9326I<<The source 'BARFILE1.bar' has been successfully deployed. <<1781852847305
+BARFILE1.bar>>node>>server>>SUCCESS>>1781853097573
+BIP9332I<<Application 'application800' has been changed successfully. <<1781853097573
+BIP9326I<<The source 'BARFILE1.bar' has been successfully deployed. <<1781853097573
+BARFILE1.bar>>node>>server>>SUCCESS>>1781853282730
+BIP9332I<<Application 'application800' has been changed successfully. <<1781853282730
+BIP9326I<<The source 'BARFILE1.bar' has been successfully deployed. <<1781853282730
+BARFILE1.bar>>node>>server>>SUCCESS>>1781853542476
+BIP9332I<<Application 'application800' has been changed successfully. <<1781853542476
+BIP9326I<<The source 'BARFILE1.bar' has been successfully deployed. <<1781853542476
+BARFILE1.bar>>node>>server>>SUCCESS>>1781853619041
+BIP9332I<<Application 'application800' has been changed successfully. <<1781853619041
+BIP9326I<<The source 'BARFILE1.bar' has been successfully deployed. <<1781853619041
+BARFILE1.bar>>node>>server>>SUCCESS>>1781853725155
+BIP9332I<<Application 'application800' has been changed successfully. <<1781853725155
+BIP9326I<<The source 'BARFILE1.bar' has been successfully deployed. <<1781853725155
+BARFILE1.bar>>node>>server>>SUCCESS>>1781853781616
+BIP9332I<<Application 'application800' has been changed successfully. <<1781853781616
+BIP9326I<<The source 'BARFILE1.bar' has been successfully deployed. <<1781853781616
+BARFILE1.bar>>node>>server>>WARNING>>1781854921306
+BIP4125E<<Failed to load ESQL file 'C:/ProgramData/IBM/MQSI/components/node/servers/server/run/application800/message1_Compute.esql'. <<1781854921306
+BIP2484E<<(.message1_Compute.Main, 21.67) : Syntax error. See further messages for details of the error. <<1781854921306
+BIP2463E<<Error casting the character string '9.30' to an interval. <<1781854921306
+BIP9320E<<Message Flow 'message1', 'message1' encountered a failure and could not start. <<1781854921306
+BIP4001E<<Syntax error in SQL statements in node '{0}'. <<1781854921306
+BIP4127E<<Failed to find ESQL module 'message1_Compute'. <<1781854921306
+BIP9333W<<Application 'application800' has been changed but contains errors which has prevented some resources from starting. <<1781854921306
+BIP1096E<<The source 'BARFILE1.bar' has been deployed but there were one or more failures which may mean the deployed resources will be unable to execute. <<1781854921306
+BARFILE1.bar>>node>>server>>SUCCESS>>1781855156837
+BIP9332I<<Application 'application800' has been changed successfully. <<1781855156837
+BIP9326I<<The source 'BARFILE1.bar' has been successfully deployed. <<1781855156837
+BARFILE1.bar>>node>>server>>SUCCESS>>1781856410621
+BIP9332I<<Application 'application800' has been changed successfully. <<1781856410621
+BIP9326I<<The source 'BARFILE1.bar' has been successfully deployed. <<1781856410621
+BARFILE1.bar>>node>>server>>SUCCESS>>1781856457991
+BIP9332I<<Application 'application800' has been changed successfully. <<1781856457991
+BIP9326I<<The source 'BARFILE1.bar' has been successfully deployed. <<1781856457991
+BARFILE1.bar>>node>>server>>ERROR>>1781856663197
+BIP1921S<<The integration node or integration server cannot be reached. Check that the integration node or integration server is running. Check that the TCP/IP address 'localhost' matches the address of the machine where the integration node or integration server is running,and that port '4416' matches the Administration REST API port that is configured for the integration node or integration server. See the following messages for details of the error.<<1781856663197
+BIP8032E<<Unable to connect to the integration node or integration server. <<1781856663197
+BARFILE1.bar>>node>>server>>ERROR>>1781856821549
+BARFILE1.bar>>node>>server>>SUCCESS>>1781857001820
+BIP9332I<<Application 'application800' has been changed successfully. <<1781857001820
+BIP9326I<<The source 'BARFILE1.bar' has been successfully deployed. <<1781857001820
+BARFILE1.bar>>node>>server>>SUCCESS>>1781857067560
+BIP9332I<<Application 'application800' has been changed successfully. <<1781857067560
+BIP9326I<<The source 'BARFILE1.bar' has been successfully deployed. <<1781857067560
+BARFILE1.bar>>node>>server>>WARNING>>1781876236326
+BIP9318E<<Request to 'PreSetupValidate' resource 'application800', 'application800' of type 'Application' failed. <<1781876236326
+BIP2432E<<(.message1_Compute.Main, 26.120) : The correlation name 'regName' is not valid. Those in scope are: Environment, InputLocalEnvironment, OutputLocalEnvironment, InputRoot, InputBody, InputProperties, OutputRoot, InputExceptionList, OutputExceptionList, InputDestinationList, OutputDestinationList, inroot, outroot, NAME, FULLNAME. <<1781876236326
+BIP9333W<<Application 'application800' has been changed but contains errors which has prevented some resources from starting. <<1781876236326
+BIP1096E<<The source 'BARFILE1.bar' has been deployed but there were one or more failures which may mean the deployed resources will be unable to execute. <<1781876236326
+BARFILE1.bar>>node>>server>>SUCCESS>>1781876571178
+BIP9332I<<Application 'application800' has been changed successfully. <<1781876571178
+BIP9326I<<The source 'BARFILE1.bar' has been successfully deployed. <<1781876571178
+BARFILE1.bar>>node>>server>>ERROR>>1781876765041
+BIP1921S<<The integration node or integration server cannot be reached. Check that the integration node or integration server is running. Check that the TCP/IP address 'localhost' matches the address of the machine where the integration node or integration server is running,and that port '4416' matches the Administration REST API port that is configured for the integration node or integration server. See the following messages for details of the error.<<1781876765041
+BIP8032E<<Unable to connect to the integration node or integration server. <<1781876765041
+BARFILE1.bar>>node>>server>>ERROR>>1781876836274
+BARFILE1.bar>>node>>server>>ERROR>>1781876926335
+BARFILE1.bar>>node>>server>>SUCCESS>>1781877092840
+BIP9332I<<Application 'application800' has been changed successfully. <<1781877092840
+BIP9326I<<The source 'BARFILE1.bar' has been successfully deployed. <<1781877092840
+BARFILE1.bar>>node>>server>>SUCCESS>>1781878372108
+BIP9332I<<Application 'application900' has been created successfully. <<1781878372108
+BIP9326I<<The source 'BARFILE1.bar' has been successfully deployed. <<1781878372108
+barfile.bar>>node>>server>>SUCCESS>>1781923120029
+BIP9332I<<Application 'APPLICATION600' has been created successfully. <<1781923120029
+BIP9326I<<The source 'barfile.bar' has been successfully deployed. <<1781923120029
+barfile.bar>>node>>server>>SUCCESS>>1781923171770
+BIP9332I<<Application 'APPLICATION600' has been created successfully. <<1781923171770
+BIP9326I<<The source 'barfile.bar' has been successfully deployed. <<1781923171770

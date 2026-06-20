@@ -1,0 +1,51 @@
+CREATE COMPUTE MODULE flow2222_Compute
+	CREATE FUNCTION Main() RETURNS BOOLEAN
+	BEGIN
+		CALL CopyMessageHeaders();
+		-- CALL CopyEntireMessage();
+		SET OutputRoot.XMLNSC.EMP.EMPDETAILS.EMPFULLDETAILS[]=SELECT * FROM InputRoot.XMLNSC.Students.student[] AS S WHERE S.marks=800;
+		SET OutputRoot.XMLNSC.EMP.EMPDETAILS.EMPFULL[]=SELECT * FROM InputRoot.XMLNSC. Students.student[] AS S WHERE S.regName='VEERA';
+		SET OutputRoot.XMLNSC.EMP.EMPDETAILS.EMPRECORDS[]=passthru('select * from AUDIT.STUDENT where km=?',50);
+		SET OutputRoot.XMLNSC.EMP.EMPCARDINALITY.EMP=CARDINALITY(InputRoot.XMLNSC.Students.student[]);	
+		DECLARE i INTEGER;
+		SET i=1;
+		WHILE i <=CARDINALITY(InputRoot.XMLNSC.Students.student[]) DO
+			IF InputRoot.XMLNSC.Students.student[i].regName='ravi' then
+				SET OutputRoot.XMLNSC.EMP.EMPCARINALITY.VALUE=InputRoot.XMLNSC.Students.student[i].marks;
+			END IF;
+				
+			SET i=i+1;
+		END WHILE ;
+		SET i=1;
+		WHILE i <=CARDINALITY(InputRoot.XMLNSC.Students.student[]) DO
+			IF InputRoot.XMLNSC.Students.student[i].regName='veera' then
+				SET OutputRoot.XMLNSC.EMP.EMPCAR.VALUE=InputRoot.XMLNSC.Students.student[i].marks;
+			END IF;
+			SET i=i+1;
+			END WHILE;
+			
+			SET i=1;
+		WHILE i <=CARDINALITY(InputRoot.XMLNSC.Students.student[]) DO
+			IF InputRoot.XMLNSC.Students.student[i].marks>600 then
+				SET OutputRoot.XMLNSC.EMP.EMPCA.VALUE=InputRoot.XMLNSC.Students.student[i].regName;
+			END IF;
+			SET I=I+1;
+		END WHILE ;
+			
+				RETURN TRUE;
+	END;
+
+	CREATE PROCEDURE CopyMessageHeaders() BEGIN
+		DECLARE I INTEGER 1;
+		DECLARE J INTEGER;
+		SET J = CARDINALITY(InputRoot.*[]);
+		WHILE I < J DO
+			SET OutputRoot.*[I] = InputRoot.*[I];
+			SET I = I + 1;
+		END WHILE;
+	END;
+
+	CREATE PROCEDURE CopyEntireMessage() BEGIN
+		SET OutputRoot = InputRoot;
+	END;
+END MODULE;
